@@ -1,0 +1,85 @@
+/*For easier grading I have put each tag or css class in the order it was used on the index.html page*/
+
+html {
+    background: url("../img/TMobilePark.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.linked-in-img {
+    float: right;
+    height: 45px;
+    padding: 10px;
+    width: 45px;
+}
+
+.github-img {
+    float: right;
+    padding: 10px;
+    width: 45px;
+}
+
+.buttons {
+    background-color: 
+    transparent;
+    border: 2px solid black;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px 3px black;
+    color: white;
+    font-size: 16px;
+    float: right;
+    margin: 10px;
+    padding: 10px;
+    width: 6%;
+}
+
+.family-pic {
+    border: 2px solid black;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px 3px black;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    width: 10%
+}
+
+.horizontal-line {
+    background-color: #36454F;
+    height: 4px;
+    opacity: 0.5;
+    width: 100%;
+}
+
+.portfolio-text {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.website-examples {
+    border: 2px solid black;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px 3px black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 13px;
+    width: 50%;
+}
+
+.website-titles {
+    color: white;
+    text-align: center;
+}
+
+.website-titles:hover {
+    color: black;
+}
