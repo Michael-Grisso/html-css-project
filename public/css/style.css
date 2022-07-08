@@ -36,8 +36,12 @@ html {
 }
 
 .contact-img {
+    border: 2px solid black;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px 3px black;
     display: block;
     margin: 20px auto 0 auto;
+    padding: 10px;
     width: 10%;
 }
 
@@ -48,7 +52,7 @@ html {
     float: left;
     margin: 10px;
     padding: 10px;
-    width: 10%
+    width: 10%;
 }
 
 .form {
@@ -84,6 +88,11 @@ html {
     height: 4px;
     opacity: 0.5;
     width: 100%;
+}
+
+.link-highlight {
+    color: black;
+    text-decoration: underline;
 }
 
 .linked-in-img {
@@ -159,7 +168,7 @@ html {
 }
 
 .message-submit:hover {
-    background: black;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .portfolio-text {
@@ -171,7 +180,7 @@ html {
 
 .text {
     color: white;
-    font-size: 3vw;
+    font-size: 2rem;
     margin: 0 0 0 0;
     text-align: center;
 }
