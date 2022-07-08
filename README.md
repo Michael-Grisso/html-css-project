@@ -17,7 +17,7 @@ Part 2. Profile Page:
 2. Link to git-hub profile (I checked the brand/logo usage and linked through GH's logo)
 3. Link to Linkedin account (same thing w/the brand/logo here).
 4. Create a list of "projects," that are neatly arranged and have links to their GH repo.
-4a. Since we don't have many projects, we can just make some up for now (I used images from two sites I mess around with on Wordpress.  The baseball-website I have been learning to use Beaver Builder when I have extra time).
+4a. Since we don't have many projects, we can just make some up for now (I used images from two sites I mess around with on Wordpress and a third fake website.  The baseball-website I have been learning to use Beaver Builder when I have extra time.  I created repos for all of these as well).
 5. Link custom CSS file.
 6. No attribute-based CSS, all class and tag based.
 7. Be creative and add your own flair (I tried doing this with background images, responsive-hovering, changing link colors with various screen sizes, etc.).
